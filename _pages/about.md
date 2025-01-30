@@ -1,6 +1,6 @@
 ---
 title: "Sobre mi"
-permalink: /about/
+permalink: /Sobre mi/
 date: 2025-01-30
 ---
 
