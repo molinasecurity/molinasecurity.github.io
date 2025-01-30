@@ -1,6 +1,6 @@
 ---
 title: "Sobre mi"
 permalink: /about/
-date: 2019-02-15
+date: 2025-01-30
 ---
 
